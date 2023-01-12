@@ -10,5 +10,7 @@
 | Ford Motor Company | Software Developer | Ottawa | https://www.linkedin.com/jobs/view/3361808429 | 01/05/2023 |
 | Balyasny Asset Management L.P | Technology Academy Associate (New Grad Rotational Program) | Toronto | https://www.linkedin.com/jobs/view/3420287425 | 01/05/2023 |
 | Tenstorrent Inc | New grad Software Engineer - AI Accelerator | Toronto | https://www.linkedin.com/jobs/view/3395313157 | 01/05/2023 |
-| ------------- | ------------- | ------------- | ------------- | ------------- |
-| ------------- | ------------- | ------------- | ------------- | ------------- |
+| Citi | ICG Technology, Full Time Analyst, Software Development | Mississauga | https://www.linkedin.com/jobs/view/3233776816 | 01/12/2023 |
+| CGI | New Grad Java Full Stack Developer (June 2023 Start Date) | Toronto | https://www.linkedin.com/jobs/view/3434360341 | 01/12/2023 |
+| CGI | New Grad ETL Developer (June 2023 Start Date) | Toronto | https://www.linkedin.com/jobs/view/3429567752 | 01/12/2023 |
+| Microchip Technology Inc | New Grad Java Full Stack Developer (June 2023 Start Date) | Toronto | https://www.linkedin.com/jobs/view/3404865460 | 01/12/2023 |
