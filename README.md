@@ -14,3 +14,7 @@
 | CGI | New Grad Java Full Stack Developer (June 2023 Start Date) | Toronto | https://www.linkedin.com/jobs/view/3434360341 | 01/12/2023 |
 | CGI | New Grad ETL Developer (June 2023 Start Date) | Toronto | https://www.linkedin.com/jobs/view/3429567752 | 01/12/2023 |
 | Microchip Technology Inc | New Grad Java Full Stack Developer (June 2023 Start Date) | Toronto | https://www.linkedin.com/jobs/view/3404865460 | 01/12/2023 |
+| KPMG | Software Research & Development Advisor (Full Time, New Grad), Tax Incentive Practice | Vaughan, ON | https://careers.kpmg.ca/students/jobs/18649?lang=en-us | 01/12/2023 |
+| Deloitte | Technical Solution Delivery - New Grad 2023 - Canadian Delivery Centre | Montreal | https://careers.deloitte.ca/job/Montreal%2C-Quebec%2C-Canada-FunctionalTechnical-Solution-Delivery-New-Grad-Canadian-Delivery-Center-QC/870677500/ | 01/12/2023 |
+
+
