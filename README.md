@@ -20,4 +20,14 @@
 | Bank of America | Technology Analyst Program 2023 |  Toronto | https://www.linkedin.com/jobs/view/3409497284 | 01/13/2023 |
 | CGI | New Grad Cloud Developer (June 2023 Start Date) | Toronto | https://www.linkedin.com/jobs/view/3438544300 | 01/13/2023 |
 | CGI | New Grad CRM (Salesforce) Developer (June 2023 Start Date) | Toronto | https://www.linkedin.com/jobs/view/3438546089 | 01/13/2023 |
-
+| CGI | New Grad CRM (Salesforce) Developer (June 2023 Start Date) | Toronto | https://www.linkedin.com/jobs/view/3438546089 | 01/13/2023 |
+| RBC Capital Markets | 2023 Summer New Grad Opportunities - Capital Market QTS Rotational Program, 16 Months | Toronto | https://www.linkedin.com/jobs/view/3389953121 | 01/15/2023 |
+| Ciena | Computer Engineering Technologist - New Grad | Ottawa | https://www.linkedin.com/jobs/view/3393750623 | 01/15/2023 |
+| Ciena | Embedded Software Engineer - New Grad | Ottawa | https://www.linkedin.com/jobs/view/3439310916/ | 01/15/2023 |
+| Ciena | Solutions Engineering & Introduction Engineer -New Grad (Ottawa/Montreal) | Ottawa | https://www.linkedin.com/jobs/view/3396799328/ | 01/15/2023 |
+| Ciena | LQS App Developer -New Grad | Ottawa | https://www.linkedin.com/jobs/view/3432688464/ | 01/15/2023 |
+| Munvo | Software Consultant (New Grad) | Calgary | https://www.linkedin.com/jobs/view/3435471522/ | 01/15/2023 |
+| Deloitte | OperateNext - New Grad 2023 - Cyber Managed Services | Vancouver | https://careers.deloitte.ca/job/Multiple-Locations%2C-Canada-OperateNext-New-Grad-2023-Cyber-Managed-Services-Mutiple-Locations/967558600/?utm_source=LINKEDIN&utm_medium=referrer&?src=JB-12762 | 01/15/2023 |
+| Bell | 2023 Network Technology Services Graduate Leadership Program | Toronto | https://www.linkedin.com/jobs/view/3432892649/ | 01/15/2023 |
+| Export Development Canada | EDC Student / New Grad Positions – Technology and Analytics Stream | Ottawa | https://www.linkedin.com/jobs/view/3438358623 | 01/15/2023 |
+|  Fortinet | New Grad Jobs (2023) | Burnaby, BC | https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/NEW-GRADS-2019/?utm_medium=jobshare | 01/15/2023 |
