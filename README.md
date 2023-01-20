@@ -31,3 +31,6 @@
 | Bell | 2023 Network Technology Services Graduate Leadership Program | Toronto | https://www.linkedin.com/jobs/view/3432892649/ | 01/15/2023 |
 | Export Development Canada | EDC Student / New Grad Positions – Technology and Analytics Stream | Ottawa | https://www.linkedin.com/jobs/view/3438358623 | 01/15/2023 |
 |  Fortinet | New Grad Jobs (2023) | Burnaby, BC | https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/NEW-GRADS-2019/?utm_medium=jobshare | 01/15/2023 |
+|  TELUS | TELUS' Graduate Technology Leadership Program | Calgary | https://www.linkedin.com/jobs/view/3436529550/ | 01/20/2023 |
+|  Okta | Software Development Engineer in Test, New Grad  | Remote | https://www.linkedin.com/jobs/view/3438978188/ | 01/20/2023 |
+|  Canadian Natural Resources Limited (CNRL) | Developer, New Grad  | Calgary | https://www.linkedin.com/jobs/view/3442690209/ | 01/20/2023 |
