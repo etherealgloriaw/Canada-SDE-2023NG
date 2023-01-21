@@ -34,3 +34,7 @@
 |  TELUS | TELUS' Graduate Technology Leadership Program | Calgary | https://www.linkedin.com/jobs/view/3436529550/ | 01/20/2023 |
 |  Okta | Software Development Engineer in Test, New Grad  | Remote | https://www.linkedin.com/jobs/view/3438978188/ | 01/20/2023 |
 |  Canadian Natural Resources Limited (CNRL) | Developer, New Grad  | Calgary | https://www.linkedin.com/jobs/view/3442690209/ | 01/20/2023 |
+|  Capgemini | Consultant – Canada Only - Campus Recruiting 2023  | Toronto | https://www.linkedin.com/jobs/view/3413559727/ | 01/21/2023 |
+|  Capgemini | Java programmer (New/Recent Graduate)- ServiceNow Academy  | Halifax | https://www.linkedin.com/jobs/view/3422527812/ | 01/21/2023 |
+|  Cisco | Software Engineer (Full Time) Canada | Ottawa | https://www.linkedin.com/jobs/view/3427891978/ | 01/21/2023 |
+|  Workday | Associate Software Application Development Engineer, New University Graduate  | Vancouver | https://www.linkedin.com/jobs/view/3446400992/ | 01/21/2023 |
