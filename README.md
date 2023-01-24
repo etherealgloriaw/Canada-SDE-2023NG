@@ -38,3 +38,10 @@
 |  Capgemini | Java programmer (New/Recent Graduate)- ServiceNow Academy  | Halifax | https://www.linkedin.com/jobs/view/3422527812/ | 01/21/2023 |
 |  Cisco | Software Engineer (Full Time) Canada | Ottawa | https://www.linkedin.com/jobs/view/3427891978/ | 01/21/2023 |
 |  Workday | Associate Software Application Development Engineer, New University Graduate  | Vancouver | https://www.linkedin.com/jobs/view/3446400992/ | 01/21/2023 |
+|  Canadian Natural Resources Limited (CNRL) | Desktop Software Analyst, New Grad  | Calgary | https://www.linkedin.com/jobs/view/3443072246/ | 01/24/2023 |
+|  Bell | QC - 2023 Customer Operations Graduate Leadership Program - AI & Data Engineering  | Calgary | https://www.linkedin.com/jobs/view/3434120861/ | 01/24/2023 |
+|  Canadian Nuclear Laboratories | New Grad - Cyber Security Research Scientist/Engineer - Onsite  | Fredericton, NB | https://www.linkedin.com/jobs/view/3416765245 | 01/24/2023 |
+|  BMO | Application Developer (API Gateway) New Grad  | Toronto | https://www.linkedin.com/jobs/view/3447483059/ | 01/24/2023 |
+|  IXL Learning | Software Developer, New Grad  | Toronto | https://www.linkedin.com/jobs/view/3451486207/ | 01/24/2023 |
+|  TD | IT Developer I- EN  | Toronto | https://www.linkedin.com/jobs/view/3451487854/ | 01/24/2023 |
+|  Jonah Group | Software Developer, New Grad  | Toronto | https://www.linkedin.com/jobs/view/3449254009/ | 01/24/2023 |
